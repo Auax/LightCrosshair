@@ -1,6 +1,9 @@
 # LightCrossHair
 Custom Crosshair for full-screen borderless games. It includes a C++ and a Python version.
 
+# Executables
+### You can find the executables in the [`executables`](https://github.com/Auaxx/LightCrossHair/tree/executables) branch.
+
 # Python Version
 ### You can find the Python version in the [`Python`](https://github.com/Auaxx/LightCrossHair/tree/Python) branch.
 
