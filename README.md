@@ -9,5 +9,5 @@ Custom Crosshair for full-screen borderless games. It includes a C++ and a Pytho
 
 # Examples
 ## CSGO (Fullscreen windowed):
-- ![image](https://user-images.githubusercontent.com/16353807/140614365-e7aa8548-1b72-439e-8253-1209447b011b.png)
+![image](https://user-images.githubusercontent.com/16353807/140614365-e7aa8548-1b72-439e-8253-1209447b011b.png)
 
