@@ -7,7 +7,7 @@ from crosshair import Crosshair
 
 options = {
     "parent": None,
-    "window_size": 16,  # MUST be an odd number
+    "window_size": 16,
     "stroke_width": 2,
     "rgba": (234, 54, 255, 255),
     "distance": 3
